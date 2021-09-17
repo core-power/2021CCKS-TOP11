@@ -12,7 +12,6 @@
 
 	bert_dense_v1.py
 
-
 	#结果标签分类模型
 
 	bert_dense_v2.py
